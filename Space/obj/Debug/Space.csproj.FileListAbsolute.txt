@@ -1,0 +1,6 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Space\Space\bin\Debug\Space.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Space\Space\bin\Debug\Space.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Space\Space\bin\Debug\Space.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Space\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\Space\Space\obj\Debug\Space.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Space\Space\obj\Debug\Space.pdb
